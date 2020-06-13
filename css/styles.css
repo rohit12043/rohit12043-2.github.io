@@ -53,13 +53,13 @@ a:hover{
 .bottomcloud {
   position: absolute;
   top: 300px;
-  right: 350px;
+  right: 200px;
 }
 
 .topcloud {
   position: absolute;
   bottom: 450px;
-  left: 200px;
+  left: 100px;
 }
 
 .python {
